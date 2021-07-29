@@ -2,28 +2,22 @@
 {
   "cards": [
     {
-      "Name of Establishment": "fwefe",
-      "Name of Order": "wfwefwe",
-      "Description": "fwefwfew",
+      "Name of Establishment": "Starbucks",
+      "Name of Order": "White Mocha",
+      "Description": "Idk Bro I'm Pretty Basic",
       "id": 1
     },
     {
-      "Name of Establishment": "fwefegegerg",
-      "Name of Order": "wfwefweergerger",
-      "Description": "fwefwfewgegegergergre",
+      "Name of Establishment": "Kung Fu Tea",
+      "Name of Order": "Milk Tea",
+      "Description": "0% sugar do it you won't",
       "id": 2
     },
     {
-      "Name of Establishment": "fwefegegergfewf",
-      "Name of Order": "wfwefweergergerwefwef",
-      "Description": "fwefwfewgegegergergrewefwefwef",
+      "Name of Establishment": "Bon Bon Tea House",
+      "Name of Order": "Potted Plant ",
+      "Description": "is like milk tea with an orea later and a mint leaf so it looks like a plant!",
       "id": 3
-    },
-    {
-      "Name of Establishment": "fwffwefwe",
-      "Name of Order": "fwfwefwfwefwefwefwe",
-      "Description": "fwefwefwefewfewfwefwefwefew",
-      "id": 4
     }
   ]
 }
